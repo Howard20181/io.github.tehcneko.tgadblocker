@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Telegram ADs blocker</string>
+    <string name="xposed_description">Block sponsored messages.</string>
+    <string-array name="scope">
+        <item>org.telegram.messenger</item>
+        <item>org.telegram.messenger.beta</item>
+        <item>org.telegram.messenger.web</item>
+        <item>nekox.messenger</item>
+        <item>tw.nekomimi.nekogram</item>
+        <item>tw.nekomimi.nekogram.beta</item>
+        <item>ua.itaysonlab.messenger</item>
+        <item>org.telegram.plus</item>
+    </string-array>
+</resources>
